@@ -1,0 +1,3 @@
+# Smart Citizen Service Portal - Requirements
+# Only standard library dependencies needed
+# matplotlib optional for dashboards - not required
